@@ -9,8 +9,8 @@ There are two projects. The library itself and the test project which shows how 
 
 In order to configure the test project add the following details to the app.config.
 
-<appSettings>
-    <add key="DomainName" value="example.onmicrosoft.com" />
-    <add key="AppPrincipalId" value="ffffffff-6c33-4b55-8aa4-ffffffffff" />
-    <add key="SymmetricKey" value="FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF=" />
-</appSettings>
+&lt;appSettings&gt;
+    &lt;add key="DomainName" value="example.onmicrosoft.com" /&gt;
+    &lt;add key="AppPrincipalId" value="ffffffff-6c33-4b55-8aa4-ffffffffff" /&gt;
+    &lt;add key="SymmetricKey" value="FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF=" /&gt;
+&lt;/appSettings>
