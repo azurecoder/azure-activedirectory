@@ -7,7 +7,7 @@ This library has dependencies on the the Windows Azure AAL library which is down
 
 There are two projects. The library itself and the test project which shows how to use it. 
 
-In order to configure the test project add the following details to the app.config.
+In order to configure the test project add the following details to the app.config (relevant to your domain).
 
 &lt;appSettings&gt;
     &lt;add key="DomainName" value="example.onmicrosoft.com" /&gt;
